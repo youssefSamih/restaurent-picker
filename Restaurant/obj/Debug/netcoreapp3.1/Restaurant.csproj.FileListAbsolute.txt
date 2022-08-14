@@ -1,0 +1,16 @@
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\youss\OneDrive\Bureau\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CopyComplete
